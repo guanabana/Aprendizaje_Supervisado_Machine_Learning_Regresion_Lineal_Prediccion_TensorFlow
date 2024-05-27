@@ -1,0 +1,2 @@
+# Aprendizaje_Supervisado_Machine_Learning_Regresion_Lineal_Prediccion_TensorFlow
+El ejercicio tiene como objetivo familiarizarse con el concepto de aprendizaje supervisado usando las tecnología de Tensorflow. Se busca predecir el precio de los alquileres  de Boston con un dataset proveído por Keras. Usamos un modelo de Deep learning preentrenado, analizamos métricas de Error , funciones de activación, dropout, early stoping.
